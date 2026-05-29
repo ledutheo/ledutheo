@@ -1,35 +1,45 @@
-# 👋 Salut, moi c’est **ledutheo**
+# 👋 Salut, je suis **ledutheo**
 
-Développeur qui aime que les choses soient **simples, propres et efficaces**.
+Développeur qui aime que les choses soient **simples, propres, et efficaces**.
 
-Je passe une bonne partie de mon temps à affiner mon environnement de travail pour être plus rapide, plus confortable, et moins frustré au quotidien.
+Je passe beaucoup de temps à affiner mon environnement et mes outils pour gagner en fluidité au quotidien.
 
 ---
 
 ## 🧰 Stack & Outils
 
-| Catégorie       | Outils principaux                              |
-|-----------------|------------------------------------------------|
-| **Système**     | Manjaro / Arch Linux                           |
-| **Shell**       | Zsh + zoxide, fzf, starship, bat, eza, ripgrep |
-| **Versioning**  | Git (configuration très soignée)               |
-| **CLI**         | gh, docker, jq, fd, lazygit, etc.              |
-| **Éditeur**     | VS Code / Nano (en transition)                 |
+| Catégorie         | Outils principaux                                      |
+|-------------------|--------------------------------------------------------|
+| **OS**            | Manjaro / Arch Linux                                   |
+| **Shell**         | Zsh + zoxide • fzf • starship • bat • eza • ripgrep    |
+| **CLI**           | gh • docker • lazygit • syskit • fd • jq               |
+| **Versioning**    | Git (configuration très soignée)                       |
+| **Langages**      | Python, Bash, (en apprentissage)                       |
 
-## 📦 Projets
+## 🚀 Projets
 
-- **[dotfiles](https://github.com/ledutheo/dotfiles)** — Mes configurations personnelles. Installateur propre, backups automatiques, structure modulaire et une vraie attention à la qualité.
-- **[scripts](https://github.com/ledutheo/scripts)** — Collection de scripts utilitaires du quotidien.
+| Projet                                                    | Description                                      |
+|-----------------------------------------------------------|--------------------------------------------------|
+| **[dotfiles](https://github.com/ledutheo/dotfiles)**      | Configurations personnelles hautement soignées  |
+| **[syskit](https://github.com/ledutheo/syskit)**          | CLI moderne pour Arch/Manjaro (Typer + Rich)    |
+| **[scripts](https://github.com/ledutheo/scripts)**        | Outils utilitaires du quotidien                  |
 
-## 🎯 Objectifs actuels
+## 📊 GitHub Stats
 
-- Continuer à rendre mon setup de plus en plus fluide
-- Apprendre de nouvelles choses sans complexifier pour rien
-- Participer à des projets qui ont du sens
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ledutheo&show_icons=true&theme=tokyonight&hide=contribs" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledutheo&layout=compact&theme=tokyonight" height="140" />
+</div>
+
+## 🎯 En ce moment
+
+- Construction d'outils CLI de qualité
+- Optimisation continue de mon workflow
+- Apprentissage de bonnes pratiques de développement
 
 ## 📫 Contact
 
-Tu peux me joindre via GitHub.
+Tu peux me contacter via GitHub.
 
 ---
 
@@ -38,5 +48,5 @@ Tu peux me joindre via GitHub.
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ledutheo&show_icons=true&theme=tokyonight&hide=contribs" alt="GitHub Stats" />
+  <sub>Profil mis à jour automatiquement • 2026</sub>
 </div>
