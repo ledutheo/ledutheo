@@ -14,15 +14,15 @@ Je passe beaucoup de temps à affiner mon environnement et mes outils pour gagne
 | **Shell**         | Zsh + zoxide • fzf • starship • bat • eza • ripgrep    |
 | **CLI**           | gh • docker • lazygit • syskit • fd • jq               |
 | **Versioning**    | Git (configuration très soignée)                       |
-| **Langages**      | Python, Bash, (en apprentissage)                       |
+| **Langages**      | Python, Bash                                           |
 
 ## 🚀 Projets
 
-| Projet                                                    | Description                                      |
-|-----------------------------------------------------------|--------------------------------------------------|
-| **[dotfiles](https://github.com/ledutheo/dotfiles)**      | Configurations personnelles hautement soignées  |
-| **[syskit](https://github.com/ledutheo/syskit)**          | CLI moderne pour Arch/Manjaro (Typer + Rich)    |
-| **[scripts](https://github.com/ledutheo/scripts)**        | Outils utilitaires du quotidien                  |
+| Projet                                                    | Description                                           |
+|-----------------------------------------------------------|-------------------------------------------------------|
+| **[dotfiles](https://github.com/ledutheo/dotfiles)**      | Configurations personnelles hautement soignées       |
+| **[syskit](https://github.com/ledutheo/syskit)**          | CLI moderne pour Arch/Manjaro (Typer + Rich)         |
+| **[scripts](https://github.com/ledutheo/scripts)**        | Outils utilitaires concrets du quotidien             |
 
 ## 📊 GitHub Stats
 
@@ -33,9 +33,9 @@ Je passe beaucoup de temps à affiner mon environnement et mes outils pour gagne
 
 ## 🎯 En ce moment
 
-- Construction d'outils CLI de qualité
-- Optimisation continue de mon workflow
-- Apprentissage de bonnes pratiques de développement
+- Développement d'outils CLI de qualité
+- Optimisation continue de mon workflow Linux
+- Construction d'un environnement reproductible et maintenable
 
 ## 📫 Contact
 
@@ -48,5 +48,5 @@ Tu peux me contacter via GitHub.
 ---
 
 <div align="center">
-  <sub>Profil mis à jour automatiquement • 2026</sub>
+  <sub>Profil mis à jour • 2026</sub>
 </div>
