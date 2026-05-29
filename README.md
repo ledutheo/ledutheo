@@ -23,7 +23,7 @@ Je passe beaucoup de temps à affiner mon environnement et mes outils pour gagne
 | **[dotfiles](https://github.com/ledutheo/dotfiles)**      | Configurations personnelles hautement soignées          |
 | **[syskit](https://github.com/ledutheo/syskit)**          | CLI moderne pour Arch/Manjaro (Typer + Rich)            |
 | **[scripts](https://github.com/ledutheo/scripts)**        | Outils utilitaires concrets du quotidien                |
-| **[1975](https://github.com/ledutheo/1975)**              | Programmes BASIC authentiques des années 1970 (Lunar Lander, Star Trek, Hammurabi...) |
+| **[1975](https://github.com/ledutheo/1975)**              | Programmes des années 1970 (BASIC + COBOL bancaire) |
 
 ## 📊 GitHub Stats
 
