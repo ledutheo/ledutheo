@@ -1,32 +1,35 @@
 # 👋 Salut, moi c’est **ledutheo**
 
-Développeur passionné par les outils qui rendent la vie plus fluide.
+Développeur qui aime que les choses soient **simples, propres et efficaces**.
 
-Je passe beaucoup de temps à optimiser mon environnement (shell, git, workflows) pour être plus rapide et plus confortable au quotidien.
+Je passe une bonne partie de mon temps à affiner mon environnement de travail pour être plus rapide, plus confortable, et moins frustré au quotidien.
 
 ---
 
-## 🛠 Stack & Outils
+## 🧰 Stack & Outils
 
-- **Système** : Manjaro / Arch Linux
-- **Shell** : Zsh (avec des outils modernes : zoxide, fzf, starship, bat, eza…)
-- **Version control** : Git (configuration très soignée)
-- **Éditeur** : Nano / VS Code / (en transition vers quelque chose de plus puissant)
-- **Outils du quotidien** : rg, fd, jq, gh, docker, etc.
+| Catégorie       | Outils principaux                              |
+|-----------------|------------------------------------------------|
+| **Système**     | Manjaro / Arch Linux                           |
+| **Shell**       | Zsh + zoxide, fzf, starship, bat, eza, ripgrep |
+| **Versioning**  | Git (configuration très soignée)               |
+| **CLI**         | gh, docker, jq, fd, lazygit, etc.              |
+| **Éditeur**     | VS Code / Nano (en transition)                 |
 
-## 📦 Projets publics
+## 📦 Projets
 
-- **[dotfiles](https://github.com/ledutheo/dotfiles)** — Mes configurations personnelles (zsh, git, ssh). Installateur propre, backups automatiques, et une vraie attention portée à la qualité.
+- **[dotfiles](https://github.com/ledutheo/dotfiles)** — Mes configurations personnelles. Installateur propre, backups automatiques, structure modulaire et une vraie attention à la qualité.
+- **[scripts](https://github.com/ledutheo/scripts)** — Collection de scripts utilitaires du quotidien.
 
-## 🎯 Ce que je cherche
+## 🎯 Objectifs actuels
 
-- Améliorer constamment mon setup et mes workflows
-- Participer à des projets intéressants (open source ou pro)
-- Apprendre de nouvelles choses tout en gardant les choses simples et maintenables
+- Continuer à rendre mon setup de plus en plus fluide
+- Apprendre de nouvelles choses sans complexifier pour rien
+- Participer à des projets qui ont du sens
 
-## 📫 Me contacter
+## 📫 Contact
 
-Tu peux me trouver sur GitHub ou m’envoyer un message.
+Tu peux me joindre via GitHub.
 
 ---
 
