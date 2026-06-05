@@ -1,12 +1,12 @@
-# 👋 Salut, je suis **ledutheo**
+#  Salut, je suis **ledutheo** 🫆
 
-Développeur qui aime que les choses soient **simples, propres, et efficaces**.
+Développeur qui aime que les choses soient **simples, propres, et efficaces**. 🪇
 
-Je passe beaucoup de temps à affiner mon environnement et mes outils pour gagner en fluidité au quotidien.
+Je passe beaucoup de temps à affiner mon environnement et mes outils pour gagner en fluidité au quotidien. 🤷‍♀️
 
 ---
 
-## 🧰 Stack & Outils
+##  Stack & Outils 🍳
 
 | Catégorie         | Outils principaux                                      |
 |-------------------|--------------------------------------------------------|
@@ -16,7 +16,7 @@ Je passe beaucoup de temps à affiner mon environnement et mes outils pour gagne
 | **Versioning**    | Git (configuration très soignée)                       |
 | **Langages**      | Python, Bash, **BASIC (1975)**                         |
 
-## 🚀 Projets
+##  Projets 🏋️‍♀️
 
 | Projet                                                    | Description                                              |
 |-----------------------------------------------------------|----------------------------------------------------------|
@@ -25,20 +25,25 @@ Je passe beaucoup de temps à affiner mon environnement et mes outils pour gagne
 | **[scripts](https://github.com/ledutheo/scripts)**        | Outils utilitaires concrets du quotidien                |
 | **[1975](https://github.com/ledutheo/1975)**              | Programmes des années 1970 (BASIC + COBOL bancaire) |
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ledutheo&show_icons=true&theme=tokyonight&hide=contribs" height="140" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledutheo&layout=compact&theme=tokyonight" height="140" />
 </div>
 
-## 🎯 En ce moment
+##  Contributions & Community
+
+- Label issues and pull requests for new contributors with `good first issue`. GitHub helps potential first-time contributors discover these opportunities.
+- Active in open source projects focused on developer tools and historical computing.
+
+##  En ce moment
 
 - Développement d'outils CLI de qualité
 - Hommage au BASIC des années 1970
 - Optimisation continue de mon workflow Linux
 
-## 📫 Contact
+##  Contact
 
 Tu peux me contacter via GitHub.
 
