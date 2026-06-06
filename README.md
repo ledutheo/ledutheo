@@ -39,9 +39,9 @@ Je passe beaucoup de temps à affiner mon environnement et mes outils pour gagne
 
 ##  En ce moment
 
-- Développement d'outils CLI de qualité
-- Hommage au BASIC des années 1970
-- Optimisation continue de mon workflow Linux
+- Développement de **syskit** (CLI Arch/Manjaro)
+- Hommage au **BASIC & COBOL** des années 1970 — pour ma mère informaticienne
+- Dotfiles & scripts qui tournent tout seuls
 
 ##  Contact
 
