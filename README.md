@@ -1,4 +1,4 @@
-#  Salut, je suis **ledutheo** 🫆
+#  Salut, je suis **Ledu theo** 🫆
 
 Développeur qui aime que les choses soient **simples, propres, et efficaces**. 🪇
 
@@ -50,6 +50,8 @@ Tu peux me contacter via GitHub.
 ---
 
 **« La simplicité est la sophistication suprême. »** — Léonard de Vinci
+---
+**« La simplicité c'est de marbrer qui s'oppose. »** _ **Élie Yaffa** alias b20ba aka **Le Duc de Boulogne** alias Élie/"**KOPP**"/(tère), anciennement appelé plus simplement **Saddam Hauts-de-Seine**
 
 ---
 
