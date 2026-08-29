@@ -25,6 +25,26 @@ Je passe beaucoup de temps à affiner mon environnement et mes outils pour gagne
 | **[scripts](https://github.com/ledutheo/scripts)**        | Outils utilitaires concrets du quotidien                |
 | **[1975](https://github.com/ledutheo/1975)**              | Programmes des années 1970 (BASIC + COBOL bancaire) |
 
+##  Exports perso 📂
+
+Outils **locaux** pour relire, auditer ou extraire tes propres exports de plateformes. Python stdlib, rien n’est envoyé. Repos séparés — même esprit, pas le même métier.
+
+**Audit / lecture**
+
+| Outil | Plateforme | Rôle |
+|-------|------------|------|
+| **[google-takeout-audit](https://github.com/ledutheo/google-takeout-audit)** | Google | Dashboard HTML (géoloc, recherches, stats) |
+| **[facebook-data-audit](https://github.com/ledutheo/facebook-data-audit)** | Facebook | Revue locale (messages, amis, médias) |
+| **[chatgpt-audit](https://github.com/ledutheo/chatgpt-audit)** | ChatGPT | Stats de conversations + dashboard |
+| **[grok-export-lisible](https://github.com/ledutheo/grok-export-lisible)** | Grok | Archive HTML hors-ligne *(privé)* |
+
+**Médias**
+
+| Outil | Plateforme | Rôle |
+|-------|------------|------|
+| **[google-takeout-media](https://github.com/ledutheo/google-takeout-media)** | Google | Photos / vidéos / audio uniquement |
+| **[facebook-media](https://github.com/ledutheo/facebook-media)** | Facebook | Photos / vidéos / audio uniquement |
+
 ##  GitHub Stats
 
 <div align="center">
