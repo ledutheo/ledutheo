@@ -24,7 +24,7 @@ Je passe beaucoup de temps à affiner mon environnement et mes outils pour gagne
 | **[syskit](https://github.com/ledutheo/syskit)**          | CLI moderne pour Arch/Manjaro (Typer + Rich)            |
 | **[scripts](https://github.com/ledutheo/scripts)**        | Outils utilitaires concrets du quotidien                |
 | **[1975](https://github.com/ledutheo/1975)**              | Programmes des années 1970 (BASIC + COBOL bancaire) |
-| **[firefox-theme-grok](https://github.com/ledutheo/firefox-theme-grok)** | Grok Night — thème Firefox aux couleurs de grok.com |
+| **[firefox-theme-grok](https://github.com/ledutheo/firefox-theme-grok)** | Grok Night — l’appli Grok, dans Firefox |
 
 ##  Exports perso 📂
 
